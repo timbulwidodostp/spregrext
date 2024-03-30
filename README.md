@@ -1,6 +1,8 @@
 # spregrext
 Spatial Panel Random Effects Regression Lag and Durbin Models Use spregrext With STATA 18
 
+https://www.youtube.com/watch?v=0pAGMuoVUNk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
